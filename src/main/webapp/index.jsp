@@ -54,9 +54,7 @@
       <div class="jumbotron">
         <h1 class="text-center text-white display-3">Wind Power Dashboard</h1>
       </div>
-      <div class="alert alert-danger" role="alert">
-        Wind Turbine us-east-region-2-23a will be down for maintenance on June 8th from 6:00 PM EST to 9:00 PM EST.
-      </div>
+      <!--Alerts go here -->
     </div>
     <div class="container">
       <div class="row">
@@ -101,9 +99,7 @@
         </div>
       </div>
     </div>
-    <nav class="navbar fixed-bottom navbar-light bg-light">
-      <p class="text-center">Generated on <%= new java.util.Date() %></p>
-    </nav>
+    <p class="text-center">Generated on <%= new java.util.Date() %></p>
 
     <script type="text/javascript">
     new Morris.Bar({
