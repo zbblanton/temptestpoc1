@@ -56,7 +56,7 @@
       </div>
       <!--Alerts go here. -->
       <div class="alert alert-danger" role="alert">
-        Wind Turbine us-east-region-2-23a will be down for maintenance on June 8th from 6:00 PM EST to 9:00 PM EST.
+        Wind Turbine us-east-region-2-23a will be down for maintenance on June 10th from 6:00 PM EST to 9:00 PM EST.
       </div>
     </div>
     <div class="container">
