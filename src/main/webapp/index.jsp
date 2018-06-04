@@ -54,7 +54,7 @@
       <div class="jumbotron">
         <h1 class="text-center text-white display-3">Wind Power Dashboard</h1>
       </div>
-      <!--Alerts go here -->
+      <!--Alerts go here. -->
     </div>
     <div class="container">
       <div class="row">
